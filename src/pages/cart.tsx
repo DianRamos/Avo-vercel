@@ -5,7 +5,7 @@ import { useCart, useCartMutations } from '@/components/store/Cart'
 import React from 'react'
 import { Divider } from 'semantic-ui-react'
 
-
+//cart page
 
 const CartPage = () => {
   const { items, count } = useCart()

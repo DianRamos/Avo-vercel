@@ -1,0 +1,18 @@
+.containerNav{
+    background-color: azure;
+    border-radius: 10px;
+}
+
+.contianerLinks{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 40px;
+
+}
+
+.containerButton{
+    border-radius: 20px;
+    background-color: aquamarine;
+    width: 100px;
+   
+}
